@@ -40,7 +40,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn requests
 ## 📝 Что сдать
 Jupyter Notebook (.ipynb) с кодом и пояснениями
 Файл final_dataset.csv - финальный датасет с признаками:
+
 molecule_chembl_id: ID молекулы
+
 smiles: SMILES-представление
+
 pKi: Значение активности
+
 pca_1, pca_2, ...: PCA-компоненты
